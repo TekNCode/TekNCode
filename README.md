@@ -1,10 +1,9 @@
 Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TekNCode" alt="TekNCode" /> </p>
 
-Startup Industry Professional with 20+ years of coding experience.
-Currently I'm apart of [Wizard Labs Inc](https://wizard.io)
-
-I love everything tech and code from micro controlers to ML.<br>
+20+ years of coding experience and love to work on side projects.<br>
+If you look at my latest public repos you'll see my current interests.<br>
+I love everything tech and code from micro controlers to game modding.<br>
 Always looking for a cool side project to collaberate on.
 
 Hit me up with projects, questions or just to say Hi!<br>
